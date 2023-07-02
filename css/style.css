@@ -1,0 +1,21 @@
+body {
+	background-color: #CCFFE4;
+}
+
+h1 {
+	color: #3EB690;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+p {
+	color: #3EB690;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	font-size: 125%;
+}
+
+/* hyperlinks */
+a {
+  color: #FA77E4;
+}
